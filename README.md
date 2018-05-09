@@ -1,5 +1,5 @@
 # The Pig Game
-Fun 2 player game with the dice in the center! Easy-to-play game written in JavaScript.
+Fun 2 player game with the dices in the center! Easy-to-play game written in JavaScript while learning the course on Udemy.
 
 ## Rules of the game
 - The game has 2 players, playing in rounds
