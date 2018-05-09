@@ -10,4 +10,6 @@ Fun 2 player game with the dice in the center! Easy-to-play game written in Java
 - Also you can choose your own winning score if you want, just write the number in the 'FINAL SCORE' field
 
 ## How can I play?
-Oh it's simple, really, just click [this link](https://1obanov.github.io/Pig-game/)
+Oh it's simple, really, just click [this link!](https://1obanov.github.io/Pig-game/)
+
+![screen shot 2017-07-28 at 20 37 58](https://github.com/1obanov/Pig-game/blob/master/screenshot-of-pig-game.png)
